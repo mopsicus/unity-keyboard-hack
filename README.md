@@ -1,5 +1,8 @@
 # unity-keyboard-hack
 
+## New realization
+https://github.com/mopsicus/UnityMobileInput
+
 Hack for hiding mobile input box on Android (iOS).
 Just adding invisible native inputfield and catch entered symbols. Dirty, but works.
 
